@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clothing AI</string>
+    <string name="foreground_channel_name">Sensor connection</string>
+    <string name="foreground_channel_description">Keeps the BLE sensor connection active.</string>
+    <string name="foreground_notification_title">Sensor connected</string>
+    <string name="foreground_notification_text">Streaming sensor data from your XIAO device.</string>
+    <string name="polar_foreground_channel_name">Polar H10 reference capture</string>
+    <string name="polar_foreground_channel_description">Keeps evaluation-only Polar ECG and acceleration capture active.</string>
+    <string name="polar_foreground_notification_title">Polar H10 recording</string>
+    <string name="polar_foreground_notification_text">Saving raw ECG, chest acceleration, and HR/RR reference data.</string>
+</resources>
